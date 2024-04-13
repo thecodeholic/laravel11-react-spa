@@ -28,3 +28,10 @@ export const TASK_PRIORITY_TEXT_MAP = {
   medium: "Medium",
   high: "High",
 };
+export const USER_STATUS_CLASS_MAP = {
+  // define your status class map here
+};
+
+export const USER_STATUS_TEXT_MAP = {
+  // define your status text map here
+};

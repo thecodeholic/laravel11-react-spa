@@ -60,7 +60,6 @@ export default function Login({ status, canResetPassword }) {
                     <TextInput
                         id="password"
                         type="password"
-                        id="password"
                         name="password"
                         value={data.password}
                         className="mt-1 block w-full"
